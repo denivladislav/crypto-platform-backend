@@ -1,7 +1,7 @@
 {
   "assets": [
-    {"id": "1", "name": "Bitcoin", "symbol": "BTC", "amount": "1"},
-    {"id": "1027", "name": "Ethereum", "symbol": "ETH", "amount": "0.5"}
+    {"id": "1", "name": "Bitcoin", "symbol": "BTC", "amount": 1},
+    {"id": "1027", "name": "Ethereum", "symbol": "ETH", "amount": 0.5}
   ],
   "transactions": [
     {
@@ -9,7 +9,7 @@
       "type": "purchased",
       "timestamp": 1737274517070,
       "asset": {
-        "id": "1", "name": "Bitcoin", "symbol": "BTC", "amount": "1"
+        "id": "1", "name": "Bitcoin", "symbol": "BTC", "amount": 1
       }
     },
     {
@@ -17,7 +17,7 @@
       "type": "traded",
       "timestamp": 1737274517070,
       "asset": {
-        "id": "1027", "name": "Ethereum", "symbol": "ETH", "amount": "0.5"
+        "id": "1027", "name": "Ethereum", "symbol": "ETH", "amount": 0.5
       }
     }
   ]
